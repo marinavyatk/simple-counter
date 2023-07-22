@@ -1,0 +1,17 @@
+.input {
+    width: 150px;
+    height: 30px;
+    border: 3px solid deepskyblue;
+    border-radius: 5px;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 600;
+    background-color: #b3dafa;
+    color: #2f2f2f;
+    outline: none;
+}
+
+.errorInput {
+    border: 3px solid #fc5252;
+    background-color: #fc5252;
+}
